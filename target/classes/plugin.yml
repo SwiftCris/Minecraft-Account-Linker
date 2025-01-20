@@ -1,0 +1,15 @@
+name: AccountLinker
+version: 1.0
+main: com.example.accountlinker.AccountLinker
+description: A plugin to link Java and Bedrock accounts using a JSON file.
+author: rn & chatgl
+commands:
+  link:
+    description: Link a Java account to a Bedrock account.
+    usage: /link <JavaUsername> <BedrockUsername>
+    permission: accountlinker.link
+permissions:
+  accountlinker.link:
+    description: Allows linking Java and Bedrock accounts.
+    default: op
+  
