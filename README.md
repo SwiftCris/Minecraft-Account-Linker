@@ -14,13 +14,13 @@ THIS WILL BE CHANGED IN A FUTURE UPDATE
 
 You only have to do this on one version
 
+
+# Usage
+```/link <<JavaUsername>> <BedrockUsername> ```
+```/unlink <JavaUsername> <BedrockUsername>```
+
 # Requirements
 Requirements:
 - Geyser
 - Paper 1.20.1+
-
-
-# Usage
-/link <<JavaUsername>> <BedrockUsername>
-/unlink <JavaUsername> <BedrockUsername>
-
+  
