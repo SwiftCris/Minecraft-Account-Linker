@@ -21,6 +21,6 @@ Requirements:
 
 
 # Usage
-/link <JavaUsername> <BedrockUsername>
+/link <<JavaUsername>> <BedrockUsername>
 /unlink <JavaUsername> <BedrockUsername>
 
